@@ -1,0 +1,10 @@
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <item
+        android:drawable="@drawable/shape_green_rect"
+        >
+    </item>
+    <item android:drawable="@drawable/clip" />
+    <item android:drawable="@drawable/ic_flash_on_black_24dp" />
+</layer-list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="battery_stroke">5dp</dimen>
+    <dimen name="battery_corners">20dp</dimen>
+    <dimen name="battery_wight">96dp</dimen>
+    <dimen name="battery_height">128dp</dimen>
+    <dimen name="battery_margin">16dp</dimen>
+</resources>
