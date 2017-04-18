@@ -4,7 +4,7 @@
     <string name="battery_percent_format">%1$d%%</string>
     <string-array name="battary_states">
         <item>No battery</item>
-        <item>Unknow</item>
+        <item>Unknown</item>
         <item>Charging</item>
         <item>Discharging</item>
         <item>Not charging</item>
